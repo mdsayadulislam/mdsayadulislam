@@ -1,6 +1,6 @@
 ### Hi there 👋, **I am Sayadul Islam**
 #### I am a student of Computer Science and Engineering (CSE)
-I am a student of Computer Science and Engineering (CSE) with a strong interest in technology, programming, and innovation. I actively practice coding and enjoy learning about new tools and technologies. My goal is to become a skilled software engineer and contribute meaningfully to the field of information technology.
+I am a student of Computer Science and Engineering (CSE) with a strong interest in technology, programming and innovation. I actively practice coding and enjoy learning about new tools and technologies. My goal is to become a skilled software engineer and contribute meaningfully to the field of information technology.
 
 Skills: C/CPP
 
